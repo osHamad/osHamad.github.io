@@ -21,9 +21,9 @@ status:
 # bio: My interests are Web Development, Machine Learning and anything code
 
 interests:
-- Artificial Intelligence (ML/AI/NLP)
+- Artificial Intelligence
 - Web Development
-- Automation
+- Cyber Security
 
 education:
  courses:
@@ -60,8 +60,8 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Osama Hamad is a Software Developer, Founder of OutlineCenter.com, and a Computer Science Student at Carleton University. His interests include Machine Learning, Web Development, and anything code. He is a self-driven, experienced programmer that has been developing websites, ML models and command-line prorgams ever since high school.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Osama is always on the look out for new opportunities to learn and improve. He has picked up a new interest in automation, embedded systems, backend development and large language models. With exceptional projects, outstanding grades and avid software experience, he is unstoppable.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
