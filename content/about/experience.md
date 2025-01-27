@@ -46,7 +46,7 @@ experience:
     date_end: ''
     description: Taught and administered Introduction to Computer Science course
 
-    - title: Data Analyst
+  - title: Data Analyst
     company: Telus
     company_url: ''
     company_logo: org-x
