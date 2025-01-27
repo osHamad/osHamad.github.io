@@ -1,8 +1,8 @@
 ---
 title: Cosmetics Semantic Search
-summary: Write about your project here...
+summary: A discord bot that uses ML and NLP to detect and moderate toxic or inappropriate messages in servers
 tags:
-  - NLP
+  - ai
 date: 2022-01-01
 external_link: http://github.com
 ---

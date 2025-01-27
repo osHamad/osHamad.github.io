@@ -1,8 +1,8 @@
 ---
 title: OutlineCenter.com
-summary: A discord bot that uses ML and NLP to detect and moderate toxic or inappropriate messages in servers
+summary: A website for university students to rate courses based on difficulty and enjoyability, and also upload course outlines
 tags:
-  - ai
+  - web
 date: 2022-01-01
 external_link: http://github.com
 ---
