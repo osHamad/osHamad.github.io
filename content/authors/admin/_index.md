@@ -10,7 +10,7 @@ role: 'Founder and Developer'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👨‍💻
 
 # Organizations/Affiliations
 #organizations:
@@ -39,12 +39,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://github.com/osHamad
+  - icon: linkedin
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.linkedin.com/in/osama-hamad/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
