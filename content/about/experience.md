@@ -37,10 +37,10 @@ experience:
         * Automation Testing
         * Full Stack Engineering
 
-  - title: 'Professor's Assistant - Computer Science'
+  - title: "Professor's Assistant - Computer Science"
     company: Carleton University
     company_url: ''
-    company_logo: org-x
+    company_logo: 'org-x'
     location: Ottawa, ON
     date_start: '2024-09-01'
     date_end: ''
