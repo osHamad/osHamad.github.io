@@ -1,5 +1,5 @@
 ---
-title: Cartoon Face Generator
+title: OutlineCenter.com
 summary: Write about your project here...
 tags:
   - CV
