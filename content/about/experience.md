@@ -37,7 +37,7 @@ experience:
         * Automation Testing
         * Full Stack Engineering
 
-  - title: Professor's Assistant - Computer Science
+  - title: 'Professor's Assistant - Computer Science'
     company: Carleton University
     company_url: ''
     company_logo: org-x
