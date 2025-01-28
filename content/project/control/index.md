@@ -4,5 +4,5 @@ summary: A git-like version control systems for project staging and change retri
 tags:
   - tools
 date: 2022-01-01
-external_link: http://github.com
+external_link: 'https://github.com/osHamad/histo-vcs'
 ---

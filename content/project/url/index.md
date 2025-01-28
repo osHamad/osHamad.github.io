@@ -5,5 +5,5 @@ tags:
   - web
   - tools
 date: 2022-01-01
-external_link: http://github.com
+external_link: 'https://github.com/osHamad/smol-url'
 ---

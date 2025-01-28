@@ -4,5 +4,5 @@ summary: A forum website for students to ask and answer questions about school w
 tags:
   - web
 date: 2022-01-01
-external_link: http://github.com
+external_link: 'https://my-school-forum.onrender.com/'
 ---

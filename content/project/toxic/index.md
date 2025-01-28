@@ -4,5 +4,5 @@ summary: A discord bot that uses ML and NLP to detect and moderate toxic or inap
 tags:
   - ai
 date: 2022-01-01
-external_link: http://github.com
+external_link: 'https://github.com/osHamad/toxic_detection_discord_bot'
 ---
