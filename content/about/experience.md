@@ -25,7 +25,7 @@ experience:
   - title: Founder/Lead Developer
     company: OutlineCenter.com
     company_url: 'outlinecenter.com'
-    company_logo: org-gc
+    company_logo: org-outline-center
     location: Ottawa, ON
     date_start: '2024-01-01'
     date_end: ''
@@ -40,7 +40,7 @@ experience:
   - title: "Professor's Assistant - Computer Science"
     company: Carleton University
     company_url: ''
-    company_logo: 'org-x'
+    company_logo: 'org-carleton'
     location: Ottawa, ON
     date_start: '2024-09-01'
     date_end: ''
@@ -49,7 +49,7 @@ experience:
   - title: Data Analyst
     company: Telus
     company_url: ''
-    company_logo: org-x
+    company_logo: org-telus
     location: Ottawa, ON
     date_start: '2024-09-01'
     date_end: ''
