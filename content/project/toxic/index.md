@@ -1,5 +1,5 @@
 ---
-title: Cosmetics Semantic Search
+title: Toxicity Moderation Bot
 summary: A discord bot that uses ML and NLP to detect and moderate toxic or inappropriate messages in servers
 tags:
   - ai
