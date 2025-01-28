@@ -25,7 +25,7 @@ experience:
   - title: BSc Computer Science - Minor in Statistics
     company: Carleton University
     company_url: ''
-    company_logo: org-x
+    company_logo: org-carleton
     location: Ottawa, ON
     date_start: '2023-09-01'
     date_end: '2027-04-01'
