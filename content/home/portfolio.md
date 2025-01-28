@@ -10,7 +10,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: ''
+title: 'Video Demos Coming Soon...'
 subtitle: ''
 
 content:
@@ -30,10 +30,12 @@ content:
       tag: '*'
     - name: ML/AI
       tag: ai
-    - name: Web Development
+    - name: Web Dev
       tag: web
-    - name: Software Tools
+    - name: Tools
       tag: tools
+    - name: Games
+      tag: game
 
 design:
   columns: '1'
